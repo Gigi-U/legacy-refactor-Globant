@@ -4,6 +4,8 @@ Globant Java Code Camp 🏕️
 
 🔗 Link to connect to ​Session 1: https://www.youtube.com/watch?v=Qovseljr58c
 
+🔗 Link to connect to Source Repository: https://github.com/Programming-with-Mati/legacy-refactor
+
 Bootcamp Agenda:
 
     ✔ Week 1: Refactoring a monolith that doesn’t have tests  
